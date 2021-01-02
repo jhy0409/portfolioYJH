@@ -2443,12 +2443,12 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
+  background-color: #3074A1;
   border-color: #3074A1;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #159a80;
+  background-color: #3074A1;
   border-color: #3074A1;
   box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
 }
