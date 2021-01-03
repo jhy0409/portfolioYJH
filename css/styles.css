@@ -41,6 +41,7 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+
 *,
 *::before,
 *::after {
@@ -2412,6 +2413,8 @@ textarea.form-control {
   border-radius: 0.5rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+
+
 @media (prefers-reduced-motion: reduce) {
   .btn {
     transition: none;
@@ -10036,6 +10039,14 @@ h3 {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
 }
+
+.btn-xl2 {
+  padding: 0.5rem 0.3rem;
+  margin: 0.3rem;
+  font-size: 1.25rem;
+  width: 5em;
+}
+
 
 .btn-social {
   border-radius: 100%;
