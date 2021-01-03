@@ -10061,13 +10061,13 @@ h3 {
 }
 
 .btn-xl {
-  border-width: 3px;
+  border-width: 2.5px;
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
 }
 
 .btn-xl2 {
-  border-width: 3px;
+  border-width: 2.5px;
   padding: 0.5rem 0.3rem;
   margin: 0.3rem;
   font-size: 1.25rem;
@@ -10076,7 +10076,7 @@ h3 {
 
 
 .btn-social {
-  border-width: 3px;
+  border-width: 2px;
   border-radius: 100%;
   display: inline-flex;
   width: 3.25rem;
