@@ -10061,13 +10061,12 @@ h3 {
 }
 
 .btn-xl {
-  border-width: 2.5px;
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
 }
 
+/* border-width: 2.5px; */
 .btn-xl2 {
-  border-width: 2.5px;
   padding: 0.5rem 0.3rem;
   margin: 0.3rem;
   font-size: 1.25rem;
