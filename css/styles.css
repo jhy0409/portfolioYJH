@@ -399,6 +399,11 @@ h6, .h6 {
   font-weight: 300;
 }
 
+.lead2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
@@ -9794,6 +9799,11 @@ a.text-primary:hover, a.text-primary:focus {
   color: #2c3e50 !important;
 }
 
+.text-secondary2 {
+  font-weight: bolder !important;
+  color: #2c3e50 !important;
+}
+
 a.text-secondary:hover, a.text-secondary:focus {
   color: #11181f !important;
 }
@@ -10056,6 +10066,7 @@ h3 {
 }
 
 .btn-xl2 {
+  border-width: 3px;
   padding: 0.5rem 0.3rem;
   margin: 0.3rem;
   font-size: 1.25rem;
